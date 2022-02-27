@@ -1,27 +1,42 @@
+# BMICalculator - Jose Abel Ramirez Frontany
 
-![App Brewery Banner](Documentation/AppBreweryBanner.png)
+![screenshot](./app_screenshot1.png)
+![screenshot](./app_screenshot2.png)
 
-#  BMI Calculator
+## Built With
 
-## Our Goal
+- iOS
+- Xcode
+- Swift
 
-The goal of this tutorial is to learn more about Optionals, solidify your understanding of the MVC design pattern and to introduce the concept of Classes. We’ll compare objects created from classes with instances of Structs that we learnt about earlier. 
+## Getting Started
 
-## What you will create
+To get a local copy up and running follow these simple example steps.
 
-By the end of the module, you will have made a Body Mass Index calculator. Based on the user’s weight and height it will calculate their body mass and give a piece of health advice depending on whether if they have eaten too many pies or if they need to eat more pies. 
+### Setup
 
-## What you will learn
+Go to the top of the page, press the green button that says "Code", and copy the link. Then you have to go to your console and type
 
-* How to create multi-screen apps with animated navigation.
-* Optional binding, optional chaining and the nil coalescing operator.
-* How to create classes and difference between classes and structs. 
-* Pass by value vs. pass by reference. 
-* Formatting Strings. 
-* Color literals.
+```
+    git clone 'repository-link'
+```
 
+You can also create a new file in your local Xcode IDE and choose clone project from Github, paste the Github link for this project and that's all, you are ready to go!
 
 
->This is a companion project to The App Brewery's Complete App Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
+## Author: Jose Abel Ramirez Frontany\*\*
 
-![End Banner](Documentation/readme-end-banner.png)
+- GitHub: [Jose Abel Ramirez Frontany](https://github.com/jose-Abel)
+- Linkedin: [Jose Abel Ramirez Frontany](www.linkedin.com/in/joseabelramirezfrontany)
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+## 📝 License
+
+This project is MIT licensed.
+
+## Show your support
+
+Give a ⭐️ if you like this project!
